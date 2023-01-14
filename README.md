@@ -8,5 +8,3 @@ I'm 小宫同学, is a front-end development engineer.
 - :pencil: blog: [掘金](https://juejin.cn/user/2629687543862974)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gong9)](https://github.com/anuraghazra/github-readme-stats)
