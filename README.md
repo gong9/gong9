@@ -1,6 +1,6 @@
 ### :smiling_imp: About Me
 
-I'm 落言, is a front-end development engineer.
+I'm 落言, is a development engineer.
 
 
 ### :yum: Find me
